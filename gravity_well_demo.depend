@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1721513488 source:d:\Мои проги\gravity_well_demo\camera.c
+	"camera.h"
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stddef.h>
+	<stdlib.h>
+
+1721503798 d:\Мои проги\gravity_well_demo\camera.h
+
+1721466804 source:d:\Мои проги\gravity_well_demo\renderer.c
+	"renderer.h"
+
+1721466799 d:\Мои проги\gravity_well_demo\renderer.h
+
+1721505872 source:d:\Мои проги\gravity_well_demo\simple.c
+	"simple.h"
+	<gl/gl.h>
+
+1721469499 d:\Мои проги\gravity_well_demo\simple.h
+
+1721562682 source:d:\Мои проги\gravity_well_demo\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"renderer.h"
+	"simple.h"
+	"camera.h"
+	"planet.h"
+
+1721514290 source:d:\Мои проги\gravity_well_demo\planet.c
+
+1721562874 d:\Мои проги\gravity_well_demo\planet.h
+	<math.h>
+
